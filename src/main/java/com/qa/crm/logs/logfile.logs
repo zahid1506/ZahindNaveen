@@ -1,0 +1,12 @@
+2018-07-18 12:43:05,161 INFO  [Base] before opening chrome 
+2018-07-18 12:43:05,162 INFO  [Base] chrome is initialised 
+2018-07-18 12:43:08,917 INFO  [Base] chrome is intialised 
+2018-07-18 12:43:08,917 INFO  [Base] before loading url 
+2018-07-18 12:43:27,698 INFO  [Base] after oading url 
+2018-07-18 12:43:28,923 INFO  [Base] executing and checking if logo is displayed or not 
+2018-07-18 12:43:29,749 INFO  [Base] before opening chrome 
+2018-07-18 12:43:29,749 INFO  [Base] chrome is initialised 
+2018-07-18 12:43:33,540 INFO  [Base] chrome is intialised 
+2018-07-18 12:43:33,541 INFO  [Base] before loading url 
+2018-07-18 12:43:54,396 INFO  [Base] after oading url 
+2018-07-18 12:43:55,732 INFO  [Base] log in into the app 
